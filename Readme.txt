@@ -9,5 +9,5 @@ Comandos utiles:
 git pull
 git add
 git status
-git commit - "mensaje aqui"
+git commit -m "mensaje aqui"
 git push
