@@ -1,8 +1,8 @@
 Importante
 
-Los cambios los suben en sus branch personales, NUNCA en el branch Master. 
+Los cambios los suben en el branch development. 
 
-Yo me voy a encargar de actualizar el Master :p
+Yo me voy a encargar de mandar los push al Master :p
 
 Comandos utiles:
 
